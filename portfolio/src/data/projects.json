@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Travel Fanatix",
+        "description": "The Travel Fanatix daily travel planner allows you to create and organise a schedule of activities for your day.The travel planner will provide you with five recommended points of interest, along with the corresponding address, description and its rank on TripAdvisor.",
+        "image": "https://github.com/agworkgit/travel-fanatix/raw/main/resources/images/edx-project-1-demo.gif",
+        "githubLink": "https://github.com/agworkgit/travel-fanatix.git",
+        "deployedLink":"https://agworkgit.github.io/travel-fanatix/"
+    },
+    {
+        "id": 2,
+        "title": "Password Generator",
+        "description": "I created an application that can be used to generate a random password based on a set criteria. This applciation is powered by HTML, CSS and JavaScript, with it the majority of it being composed of the latter.",
+        "image": "https://github.com/amaalabdulle/password-generator/blob/main/assets/images/generated-password.png?raw=truex",
+        "githubLink": "https://github.com/amaalabdulle/password-generator.git",
+        "deployedLink":"https://amaalabdulle.github.io/password-generator/"
+    },
+    {
+        "id": 3,
+        "title": "Coding Quiz Challenge",
+        "description": "I created coding quiz using mainly javascript. The idea was to get the quiz and the timer to start once the button is pressed and any wrong answer will have a negative effect on the time left. Finally, the the time left over will be the users score.",
+        "image": "https://github.com/amaalabdulle/Coding-Quiz-Challenge/raw/main/starter/assets/images/starts-screen.png",
+        "githubLink": "https://github.com/amaalabdulle/Coding-Quiz-Challenge.git",
+        "deployedLink":"https://amaalabdulle.github.io/Coding-Quiz-Challenge/"
+    },
+    {
+        "id": 4,
+        "title": "Work Day Scheduler",
+        "description": "I created a schedule where I colour coded each timeblock depending on the users current time, by sorting the hours into the past, present, and future. I then allowed for text to be entered into the block and saved it into the local storage.",
+        "image": "https://github.com/amaalabdulle/Work-Day-Scheduler/raw/main/starter/images/schedule.png",
+        "githubLink": "https://github.com/amaalabdulle/Work-Day-Scheduler.git",
+        "deployedLink":"https://amaalabdulle.github.io/Work-Day-Scheduler/"
+    },
+    {
+        "id": 5,
+        "title": "Team Profile Generator",
+        "description": "This Node.js command-line application takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.",
+        "image": "https://github.com/amaalabdulle/team-profile-generator/raw/main/code/images/team-profile-generator.png",
+        "githubLink": "https://github.com/amaalabdulle/team-profile-generator.git",
+        "deployedLink":""
+    },
+    {
+        "id": 6,
+        "title": "Weather Dashboard",
+        "description": "I created a weather dashboard where you can view the forecast of a chosen city. This project displays the current and future forecasts using a 5 day 3 hour interval weather data and shows the temperature, wind spped and humidity of the city. Finally, each searched city is made into a button and saved into local storage so that it can be accessed again for future use.",
+        "image": "https://github.com/amaalabdulle/Weather-Dashboard/blob/main/starter/images/weather.png?raw=true",
+        "githubLink": "https://github.com/amaalabdulle/Weather-Dashboard.git",
+        "deployedLink":"https://amaalabdulle.github.io/Weather-Dashboard/"
+    }
+]

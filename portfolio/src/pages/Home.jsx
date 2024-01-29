@@ -7,7 +7,9 @@ function Home() {
         flexDirection: 'column',
         alignItems: 'center',
         justifyContent: 'center',
-        marginTop: '50px',
+        marginTop: '5px',
+        width: 'auto',
+        height: '700px',
     };
 
     const imageStyle = {
@@ -27,6 +29,7 @@ function Home() {
             <div>
                 <img src={profileImage} style={imageStyle}/>
             </div>
+            <h2 style={text1}>Welcome to my portfolio</h2>
         </div>
     );
 }
