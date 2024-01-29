@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "My awesome project 1",
+        "description": "This is my awesome project that I have done in just 1 hour",
+        "image": "https://placehold.co/600x400"
+    },
+    {
+        "id": 2,
+        "title": "My awesome project 2",
+        "description": "This is my awesome project that I have done in just 1 hour",
+        "image": "https://placehold.co/600x400"
+    },
+    {
+        "id": 3,
+        "title": "My awesome project 3",
+        "description": "This is my awesome project that I have done in just 1 hour",
+        "image": "https://placehold.co/600x400"
+    },
+    {
+        "id": 4,
+        "title": "My awesome project 4",
+        "description": "This is my awesome project that I have done in just 1 hour",
+        "image": "https://placehold.co/600x400"
+    },
+    {
+        "id": 5,
+        "title": "My awesome project 5",
+        "description": "This is my awesome project that I have done in just 1 hour",
+        "image": "https://placehold.co/600x400"
+    },
+    {
+        "id": 6,
+        "title": "My awesome project 6",
+        "description": "This is my awesome project that I have done in just 1 hour",
+        "image": "https://placehold.co/600x400"
+    }
+]
