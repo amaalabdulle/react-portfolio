@@ -25,7 +25,7 @@ Welcome to my React portfolio! I have developed this portfolio to showcase my fr
 
 ## Usage
 
-You can navigate through my projects and learn more about each one. Feel free to check out the alt text of images, showcasing my attention to accessibility details. The website is deployed at https://amaalabdulle.github.io/react-portfolio/.
+You can navigate through my projects and learn more about each one. Feel free to check out the alt text of images, showcasing my attention to accessibility details.
 
 ![alt text](./portfolio/src/images/react-portfolio.png)
 
