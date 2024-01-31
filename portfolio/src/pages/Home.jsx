@@ -25,7 +25,7 @@ function Home() {
     return (
         <div style={homeStyle}>
             <h1 style={text1}>Front-End Web Developer</h1>
-            <p style={text2}>I design code lbesf,aglqrefsjnQG F LSBFWBFE</p>
+            <p style={text2}>I am a front end web developer who codes appealing and intuitive products.</p>
             <div>
                 <img src={profileImage} style={imageStyle}/>
             </div>
