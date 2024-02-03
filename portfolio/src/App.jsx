@@ -1,8 +1,11 @@
+// Bootstrap imports
 import 'bootstrap/dist/css/bootstrap.min.css';
-import * as bootstrap from 'bootstrap'; // Import all of Bootstrap's JS
+import * as bootstrap from 'bootstrap';
 
+// React Router imports
 import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 
+// Pages imports
 import Header from './components/Header';
 import Home from './pages/Home';
 import ProjectsGallery from './pages/ProjectsGallery';

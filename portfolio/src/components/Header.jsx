@@ -12,9 +12,11 @@ function Header() {
     return (
         <nav className="navbar navbar-expand-lg" style={navStyle}>
             <div className="container-fluid">
+                {/* Name */}
                 <div className="navbar-brand" style={name}>Amaal Abdulle</div>
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
+                        {/* Navbar using React Router */}
                         <li className="nav-item">
                             <NavLink className="nav-link" to="/" end>Home</NavLink>
                         </li>

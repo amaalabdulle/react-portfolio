@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 
 function Project({ title, description, image, githubLink, deployedLink, id }) {
     return (
+        // project details
         <div className="card">
             <img src={image} className="card-img-top" alt={title} />
             <div className="card-body">

@@ -20,6 +20,7 @@ function Contact() {
     };
     // Body
     return (
+        // contact details
         <div>
             <div className="container mt-5">
                 <div className="row justify-content-center">
@@ -47,6 +48,7 @@ function Contact() {
                 </div>
             </div>
 
+            {/* handling form submit button */}
             <div className="container mt-5">
                 <div className="row justify-content-center">
                     <div className="col-md-8">

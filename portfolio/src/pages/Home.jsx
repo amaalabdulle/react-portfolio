@@ -1,7 +1,7 @@
 import profileImage from "../images/profile.png";
 
 function Home() {
-    // Body
+    // styling for Home
     const homeStyle = {
         display: 'flex',
         flexDirection: 'column',
@@ -23,6 +23,7 @@ function Home() {
     };
 
     return (
+        // Home/About page: details about me
         <div style={homeStyle}>
             <h1 style={text1}>Front-End Web Developer</h1>
             <p style={text2}>I am a front end web developer who codes appealing and intuitive products.</p>
